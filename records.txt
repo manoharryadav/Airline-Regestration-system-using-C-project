@@ -1,0 +1,10 @@
+___________________MANU Airlines______________
+___________________Ticket____________________
+_____________________________________________
+customerID:76
+customer Name:MANU
+customer gender:M
+	Description
+
+Destination  		USA
+Flight cost   :		 39000
